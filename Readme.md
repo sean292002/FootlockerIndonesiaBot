@@ -33,7 +33,7 @@ To run the script, navigate to the project directory and execute:
 py footlockerbot.py
 ```
 
-Ensure that `proxies.txt` and `ftltasks.csv` are correctly configured and present in the project directory.
+Ensure that `proxies.txt` and `ftltasks.csv` are correctly configured and is in the project directory.
 
 ## Error Handling and Optimization
 
